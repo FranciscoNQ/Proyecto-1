@@ -14,6 +14,10 @@ permitiendo una exploración personalizada de los datos.
 **Pandas (Entrada de dataset, transformacion y salida de dataset)
 **data_table de google (Mejorar vista de los dataset, obteniendo un resultado similar a excel)
 
+## Visualización en Google Colab
+
+Enlace: (https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZiX1-gmmjhj9IIE-nR?usp=sharing)
+
 ## Visualización en Looker Studio
 
 Dashboard interactivo con los gráficos del análisis: (https://lookerstudio.google.com/s/qegdDoCtcl8)
