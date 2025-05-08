@@ -9,10 +9,10 @@ permitiendo una exploración personalizada de los datos.
 
 ## Librerias y lenguajes 
 
--*Google Colab (Entorno colaborativo en la nube)
--*Python (Lenguaje principal)
--*Pandas (Entrada de dataset, transformacion y salida de dataset)
--*data_table de google (Mejorar vista de los dataset, obteniendo un resultado similar a excel)
+**Google Colab (Entorno colaborativo en la nube) 
+**Python (Lenguaje principal)
+**Pandas (Entrada de dataset, transformacion y salida de dataset)
+**data_table de google (Mejorar vista de los dataset, obteniendo un resultado similar a excel)
 
 ## Visualización en Looker Studio
 
