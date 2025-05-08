@@ -7,10 +7,9 @@ orden. Por otro lado, data_table se utilizo para tener una mejor vista para el a
 Los resultados obtenidos se presentan a través de Looker Studio, donde podrás interactuar con el dashboard y modificar las fechas a tu gusto, 
 permitiendo una exploración personalizada de los datos.
 
-## Librerias y lenguajes 
+## Librerias-Python
 
 **Google Colab (Entorno colaborativo en la nube) 
-**Python (Lenguaje principal)
 **Pandas (Entrada de dataset, transformacion y salida de dataset)
 **data_table de google (Mejorar vista de los dataset, obteniendo un resultado similar a excel)
 
