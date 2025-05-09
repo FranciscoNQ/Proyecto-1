@@ -2,15 +2,16 @@
 
 Este proyecto, realizado en Google Colab, analiza la destrucción del poder adquisitivo en Argentina desde el 1 de enero de 2017 hasta el 1 de marzo de 2025. Para eso, comparamos la evolución acumulada (%) del salario mínimo, vital y móvil con dos indicadores clave: la inflación y el dólar oficial.
 
-Se utilizo python con varias librerias: Pandas y data_table. Pandas para la entrada, transformación y almacenamiento de las bases de datos, permitiendo el análisis, limpieza y orden. Por otro lado, data_table se utilizo para tener una mejor vista para el analisis.
+Se utilizo python con varias librerias: Pandas y data_table. Pandas para la entrada, transformación y almacenamiento de los datasets, permitiendo el análisis, limpieza y orden. Por otro lado, data_table se utilizo para tener una vista similar a excel para el analisis.
 
 Los resultados obtenidos se presentan a través de Looker Studio, donde podrás interactuar con el dashboard y modificar las fechas a tu gusto, permitiendo una exploración personalizada de los datos.
 
-## Librerias-Python
+## librerías y tecnologías 
 
-- Google Colab (Entorno colaborativo en la nube) 
-- Pandas (Entrada, transformación y salida de las bases de datos)
-- data_table de google (Mejorar vista de los bases de datos, obteniendo un resultado similar a excel)
+- Google Colab: Entorno colaborativo en la nube.
+- Pandas: Entrada, transformación y salida de los datasets.
+- data_table de Google: Visualización interactiva de los datasets, con una experiencia similar a Excel.
+- Looker Studio: Herramienta de visualización para presentar los análisis atraves de Dashboard.
 
 ## Visualización en Google Colab
 
@@ -18,7 +19,7 @@ Enlace: [Google Colab](https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZi
 
 ## Visualización en Looker Studio
 
-Dashboard interactivo con los gráficos del análisis: 
+Dashboard interactivo:
 [Looker Studio](https://lookerstudio.google.com/s/qegdDoCtcl8)
 
 ## Actualización y Escalabilidad
