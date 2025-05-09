@@ -4,7 +4,7 @@ Este proyecto, realizado en Google Colab, analiza la destrucción del poder adqu
 
 Se utilizo python con varias librerias: Pandas y data_table. Pandas para la entrada, transformación y almacenamiento de los datasets, permitiendo el análisis, limpieza y orden. Por otro lado, data_table se utilizo para tener una vista similar a excel para el analisis.
 
-Los resultados obtenidos se presentan a través de Looker Studio, donde podrás interactuar con el dashboard y modificar las fechas a tu gusto, permitiendo una exploración personalizada de los datos.
+Los resultados obtenidos se presentan a través de Looker Studio, donde podrás interactuar con el dashboard y modificar las fechas, permitiendo una exploración personalizada de los datos.
 
 ## librerías y tecnologías 
 
