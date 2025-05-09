@@ -21,5 +21,5 @@ Dashboard interactivo con los gráficos del análisis:
 
 ## Actualización y Escalabilidad
 
-Tiene la base que permite su futura automatización. Actualmente, el análisis y la carga de datos se hacen de forma manual (En la nube), pero el código y la lógica ya están pensados para escalar.
+Tiene la base que permite su futura automatización. Actualmente, el análisis y la carga de datos se hacen de forma manual (En la nube), pero el código y la lógica ya están pensados para escalar a futuro.
 
