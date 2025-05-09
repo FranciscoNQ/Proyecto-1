@@ -7,8 +7,8 @@ Los resultados obtenidos se presentan a través de Looker Studio, donde podrás 
 ## Librerias-Python
 
 - Google Colab (Entorno colaborativo en la nube) 
-- Pandas (Entrada, transformación y salida de los datasets)
-- data_table de google (Mejorar vista de los dataset, obteniendo un resultado similar a excel)
+- Pandas (Entrada, transformación y salida de las bases de datos)
+- data_table de google (Mejorar vista de los bases de datos, obteniendo un resultado similar a excel)
 
 ## Visualización en Google Colab
 
