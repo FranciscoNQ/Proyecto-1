@@ -23,7 +23,7 @@ Dashboard interactivo:
 
 [Looker Studio](https://lookerstudio.google.com/s/qegdDoCtcl8)
 
-[Vista previa version PDF]()
+[Vista previa version PDF](Dashboard/Dashboard.pdf)
 
 ## Actualización y Escalabilidad
 
