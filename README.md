@@ -8,6 +8,7 @@ Los resultados obtenidos se presentan a través de Looker Studio, donde podrás 
 
 ## librerías y tecnologías 
 
+- Python: Lenguaje principal.
 - Google Colab: Entorno colaborativo en la nube.
 - Pandas: Entrada, transformación y salida de los datasets.
 - DataTable de Google: Visualización interactiva de los datasets, con una experiencia similar a Excel.
