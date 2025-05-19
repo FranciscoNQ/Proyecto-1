@@ -24,8 +24,6 @@ Dashboard interactivo:
 
 [Looker Studio](https://lookerstudio.google.com/s/qegdDoCtcl8)
 
-[Vista previa version PDF](Dashboard/Dashboard.pdf)
-
 ## Actualización y Escalabilidad
 
 Tiene la base que permite su futura automatización. Actualmente, el análisis y la carga de datos se hacen de forma manual (En la nube), pero el código y la lógica ya están pensados para escalar a futuro.
