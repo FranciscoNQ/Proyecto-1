@@ -20,8 +20,6 @@ Enlace: [Google Colab](https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZi
 
 ## Visualización en Looker Studio
 
-Dashboard interactivo:
-
 [Looker Studio](https://lookerstudio.google.com/s/qegdDoCtcl8)
 
 ## Actualización y Escalabilidad
