@@ -1,6 +1,6 @@
 ## Proyecto #1 - Análisis del Poder Adquisitivo en Argentina (2017-2025)
 
-Esta trabajo, realizado en Google Colab, analiza la destrucción del poder adquisitivo en Argentina desde el 1 de enero de 2017 hasta el 1 de marzo de 2025. Para eso, comparamos la evolución acumulada (%) del salario mínimo, vital y móvil con dos indicadores clave: la inflación y el dólar oficial.
+Esta trabajo, realizado en Google Colab, analiza la destrucción del poder adquisitivo en Argentina desde el 1 de enero de 2017 hasta el 1 de abril de 2025. Para eso, comparamos la evolución acumulada (%) del salario mínimo, vital y móvil con dos indicadores clave: la inflación y el dólar oficial.
 
 Se utilizo python con varias librerias: Pandas y DataTable. Pandas se utilizó para la entrada, transformación (limpieza y orden) y almacenamiento de los datasets Por otro lado, DataTable se utilizo para tener una vista similar a excel para el analisis.
 
