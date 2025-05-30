@@ -9,6 +9,7 @@ Los resultados obtenidos se presentan a través de Looker Studio, donde podrás 
 ## librerías y tecnologías 
 
 - Python: Lenguaje principal.
+- Matplotlib: Graficos de barras y lineal.
 - Google Colab: Entorno colaborativo en la nube.
 - Pandas: Entrada, transformación y salida de los datasets.
 - DataTable de Google: Visualización interactiva de los datasets, con una experiencia similar a Excel.
@@ -16,7 +17,8 @@ Los resultados obtenidos se presentan a través de Looker Studio, donde podrás 
 
 ## Visualización en Google Colab
 
-Enlace: [Google Colab](https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZiX1-gmmjhj9IIE-nR?usp=sharing)
+Transformacion: [Google Colab](https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZiX1-gmmjhj9IIE-nR?usp=sharing)
+Presentacion informe: [Google Colab](https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZiX1-gmmjhj9IIE-nR?usp=sharing)
 
 ## Visualización en Looker Studio
 
