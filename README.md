@@ -17,8 +17,9 @@ Los resultados obtenidos se presentan a través de Looker Studio, donde podrás 
 
 ## Visualización en Google Colab
 
-Transformacion: [Google Colab](https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZiX1-gmmjhj9IIE-nR?usp=sharing)
-Presentacion informe: [Google Colab](https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZiX1-gmmjhj9IIE-nR?usp=sharing)
+- Transformacion: [Google Colab](https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZiX1-gmmjhj9IIE-nR?usp=sharing)
+- Funciones: [Google Colab](https://colab.research.google.com/drive/1NTv_2sd4-yYAxS5YD7eLSP4CGJT_lrm0?usp=sharing)
+- Presentacion informe: [Google Colab](https://colab.research.google.com/drive/1_WPS3G-A9gFaEhZiX1-gmmjhj9IIE-nR?usp=sharing)
 
 ## Visualización en Looker Studio
 
@@ -26,5 +27,5 @@ Presentacion informe: [Google Colab](https://colab.research.google.com/drive/1_W
 
 ## Actualización y Escalabilidad
 
-Tiene la base que permite su futura automatización. Actualmente, el análisis y la carga de datos se hacen de forma manual (En la nube), pero el código y la lógica ya están pensados para escalar a futuro.
+Tiene la base que permite su futura automatización. Actualmente la carga de datos se hacen de forma manual (En la nube), pero el código y la lógica ya están pensados para escalar a futuro.
 
